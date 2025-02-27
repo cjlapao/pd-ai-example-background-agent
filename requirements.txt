@@ -1,0 +1,8 @@
+# Core dependencies
+asyncio>=3.4.3
+pydantic>=2.0.0
+
+# Optional dependencies for specific functionality
+# psutil>=5.9.0  # For actual system monitoring
+# aiohttp>=3.8.1  # For making HTTP requests
+# websockets>=10.3  # For WebSocket communication 
