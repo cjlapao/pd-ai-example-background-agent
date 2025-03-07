@@ -1,0 +1,13 @@
+{
+  "name": "vm-tools",
+  "description": "Basic VM management tools",
+  "repo_url": "https://github.com/example/vm-tools",
+  "tag": "v1.0.0",
+  "agents": [
+    "agents.vm_tools:VMToolsAgent",
+    "agents.vm_stats:VMStatsAgent"
+  ],
+  "requirements": [
+    "psutil>=5.9.0"
+  ]
+}
